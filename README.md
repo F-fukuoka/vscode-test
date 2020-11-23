@@ -1,3 +1,3 @@
-# vscode-test の練習
+# Visual Studio Codeの練習
 
-練習です
+練習です。
